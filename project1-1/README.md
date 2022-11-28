@@ -1,17 +1,17 @@
 # Проект 0. Угадай число
 
 ## Оглавление 
-[1.описание проекта]
-[2.Какой куйс решаем?]
-[3.краткая информация о данных]
-[4.Этапы работы над проектом]
-[5.Результат]
-[6.Выводы]
+[1.Описание проекта] (https://github.com/Faumi0302/sf_data_sciense/blob/main/project1-1/README.md#Описание-проекта)
+[2.Какой курс решаем?] (https://github.com/Faumi0302/sf_data_sciense/blob/main/project1-1/README.md#Какой курс-решаем?)
+[3.Краткая информация о данных] (https://github.com/Faumi0302/sf_data_sciense/blob/main/project1-1/README.md#Краткая-информация-о-данных)
+[4.Этапы работы над проектом] (https://github.com/Faumi0302/sf_data_sciense/blob/main/project1-1/README.md#Этапы-работы-над-проектом)
+[5.Результат](https://github.com/Faumi0302/sf_data_sciense/blob/main/project1-1/README.md#Результат)
+[6.Выводы](https://github.com/Faumi0302/sf_data_sciense/blob/main/project1-1/README.md#Выводы)
 
 ### Описание проекта
 Угадать загаданное компьютером число за минимальное число попыток.
 
-:arrow_up:[к оглавлению]
+:arrow_up:[к оглавлению](https://github.com/Faumi0302/sf_data_sciense/blob/main/project1-1/README.md#Оглавление)
 
 
 ### Какой кейс решаем?
@@ -31,4 +31,4 @@
 ### Краткая информация о данных 
 ....
 
-:arrow_up:[к оглавлению]
+:arrow_up:[к оглавлению](https://github.com/Faumi0302/sf_data_sciense/blob/main/project1-1/README.md#Оглавление)
